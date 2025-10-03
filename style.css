@@ -1,0 +1,74 @@
+#Informatica {
+  width: 100%;          
+  background-color:deepskyblue;
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;   
+  box-sizing: border-box; 
+}
+#Introduccion {
+  width: 100%;          
+  background-color:brown;
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;   
+  box-sizing: border-box; 
+}
+
+#Marcas {
+  width: 100%;          
+  background-color:blueviolet;
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;   
+  box-sizing: border-box; 
+}
+
+#Categorias {
+  width: 100%;           
+  background-color: lightcoral;
+  padding: 20px;
+  margin: 10px 0;        
+  border-radius: 8px;    
+  box-sizing: border-box; 
+}
+#Servicios {
+  width: 100%;          
+  background-color:chartreuse;
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;   
+  box-sizing: border-box; 
+}
+#Telefonia {
+  width: 100%;          
+  background-color:darkgoldenrod;
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;   
+  box-sizing: border-box; 
+}
+#Contacto {
+  width: 100%;          
+  background-color:fuchsia;
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;   
+  box-sizing: border-box; 
+}
+#Direccion {
+  width: 100%;          
+  background-color:hotpink;
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;   
+  box-sizing: border-box; 
+}
+#Tienda {
+  width: 100%;          
+  background-color:lawngreen;
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;   
+  box-sizing: border-box; 
+}
